@@ -1,5 +1,5 @@
 //引入get 和 post方法
-import { get, post } from './http.js'
+// import { get, post } from './http.js'
 const api = {
     //例子
     index:{
